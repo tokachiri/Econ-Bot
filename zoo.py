@@ -1,0 +1,247 @@
+common = [{
+  "rarity":1,
+  "name":"Mouse",
+  "pic":":mouse:",
+},
+{
+  "rarity":1,
+  "name":"Rabbit",
+  "pic":":rabbit:",
+},
+{
+  "rarity":1,
+  "name":"Frog",
+  "pic":":frog:",
+},
+{
+  "rarity":1,
+  "name":"Chicken",
+  "pic":":chicken:",
+},
+{
+  "rarity":1,
+  "name":"Chick",
+  "pic":":baby_chick:",
+},
+{
+  "rarity":1,
+  "name":"Duck",
+  "pic":":duck:",
+},
+{
+  "rarity":1,
+  "name":"Pigeon",
+  "pic":":bird:",
+},
+{
+  "rarity":1,
+  "name":"Turtle",
+  "pic":":turtle:",
+},
+{
+  "rarity":1,
+  "name":"Caterpillar",
+  "pic":":bug:",
+},
+{
+  "rarity":1,
+  "name":"Snail",
+  "pic":":snail:",
+},
+{
+  "rarity":1,
+  "name":"Bee",
+  "pic":":bee:",
+},
+{
+  "rarity":1,
+  "name":"Ant",
+  "pic":":ant:",
+},
+{
+  "rarity":1,
+  "name":"Ladybug",
+  "pic":":lady_beetle:",
+},
+{
+  "rarity":1,
+  "name":"Butterfly",
+  "pic":":butterfly:",
+},
+{
+  "rarity":1,
+  "name":"Snake",
+  "pic":":snake:",
+},
+{
+  "rarity":1,
+  "name":"Bat",
+  "pic":":bat:",
+},
+{
+  "rarity":1,
+  "name":"Cricket",
+  "pic":":cricket:",
+},
+{
+  "rarity":1,
+  "name":"Spider",
+  "pic":":spider:",
+},
+{
+  "rarity":1,
+  "name":"Scorpion",
+  "pic":":scorpion:",
+},
+{
+  "rarity":1,
+  "name":"Lizard",
+  "pic":":lizard:",
+}]
+
+uncommon = [{
+  "rarity":2,
+  "name":"Bear",
+  "pic":":bear:"
+},
+{
+  "rarity":2,
+  "name":"Panda",
+  "pic":":panda:"
+},
+{
+  "rarity":2,
+  "name":"Koala",
+  "pic":":koala:"
+},
+{
+  "rarity":2,
+  "name":"Cow",
+  "pic":":cow:"
+},
+{
+  "rarity":2,
+  "name":"Pig",
+  "pic":":pig:"
+},
+{
+  "rarity":2,
+  "name":"Monkey",
+  "pic":":monkey:"
+},
+{
+  "rarity":2,
+  "name":"Penguin",
+  "pic":":penguin:"
+},
+{
+  "rarity":2,
+  "name":"Eagle",
+  "pic":":eagle:"
+},
+{
+  "rarity":2,
+  "name":"Owl",
+  "pic":":owl:"
+},
+{
+  "rarity":2,
+  "name":"Wolf",
+  "pic":":wolf:"
+},
+{
+  "rarity":2,
+  "name":"Boar",
+  "pic":":boar:"
+},
+{
+  "rarity":2,
+  "name":"Horse",
+  "pic":":horse:"
+},
+{
+  "rarity":2,
+  "name":"Octopus",
+  "pic":":octopus:"
+},
+{
+  "rarity":2,
+  "name":"Squid",
+  "pic":":squid:"
+},
+{
+  "rarity":2,
+  "name":"Shrimp",
+  "pic":":shrimp:"
+},
+{
+  "rarity":2,
+  "name":"Lobster",
+  "pic":":lobster:"
+},
+{
+  "rarity":2,
+  "name":"Crab",
+  "pic":":crab:"
+},
+{
+  "rarity":2,
+  "name":"Pufferfish",
+  "pic":":blowfish:"
+},
+{
+  "rarity":2,
+  "name":"Dolphin",
+  "pic":":dolphin:"
+},
+{
+  "rarity":2,
+  "name":"Whale",
+  "pic":":whale:"
+}]
+
+rare =[{
+  "rarity":3,
+  "name":"Tiger",
+  "pic":":tiger:"
+},
+{
+  "rarity":3,
+  "name":"Lion",
+  "pic":":lion:"
+},
+{
+  "rarity":3,
+  "name":"Unicorn",
+  "pic":":unicorn:"
+},
+{
+  "rarity":3,
+  "name":"Tyrannosaur",
+  "pic":":t_rex:"
+},
+{
+  "rarity":3,
+  "name":"Sauropod",
+  "pic":":sauropod:"
+},
+{
+  "rarity":3,
+  "name":"Shark",
+  "pic":":shark:"
+},
+{
+  "rarity":3,
+  "name":"Crocodile",
+  "pic":":crocodile:"
+},
+{
+  "rarity":3,
+  "name":"Alien",
+  "pic":":alien:"
+},
+{
+  "rarity":3,
+  "name":"Dragon",
+  "pic":":dragon:"
+}]
